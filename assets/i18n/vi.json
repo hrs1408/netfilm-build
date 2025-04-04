@@ -1,0 +1,89 @@
+{
+  "common": {
+    "search": "Tìm kiếm",
+    "home": "Trang chủ",
+    "movies": "Phim lẻ",
+    "series": "Phim bộ",
+    "anime": "Phim hoạt hình",
+    "category": "Thể loại",
+    "country": "Quốc gia",
+    "trending": "Thịnh hành",
+    "loading": "Đang tải...",
+    "watchNow": "Xem ngay",
+    "more": "Xem thêm",
+    "episode": "Tập",
+    "browserNotSupported": "Trình duyệt của bạn không hỗ trợ video HTML5",
+    "resultsFound": "kết quả",
+    "loadMore": "Tải thêm",
+    "latestAnime": "Phim hoạt hình mới cập nhật",
+    "latestSeries": "Phim bộ mới cập nhật",
+    "navigation": {
+      "trending": "Thịnh hành",
+      "movies": "Phim lẻ",
+      "tvSeries": "Phim bộ",
+      "anime": "Phim hoạt hình",
+      "latestAnime": "Phim hoạt hình mới nhất",
+      "latestSeries": "Phim bộ và TV series mới nhất",
+      "discoverMovies": "Khám phá phim & TV series"
+    },
+    "filters": {
+      "allCategories": "Tất cả thể loại",
+      "allCountries": "Tất cả quốc gia",
+      "tryAgain": "Thử thay đổi bộ lọc để tìm kiếm lại"
+    },
+    "errors": {
+      "noMoviesFound": "Không tìm thấy phim.",
+      "connectionError": "Không thể kết nối đến máy chủ. Vui lòng kiểm tra kết nối internet.",
+      "genericError": "Đã xảy ra lỗi. Vui lòng thử lại sau."
+    },
+    "pagination": {
+      "page": "Trang",
+      "of": "trên"
+    }
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất", 
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "submit": "Đăng nhập",
+    "processing": "Đang xử lý...",
+    "errors": {
+      "invalidUsername": "Tên đăng nhập không chính xác",
+      "invalidPassword": "Mật khẩu không chính xác",
+      "accountLocked": "Tài khoản đã bị khoá do nhập sai mật khẩu quá nhiều lần",
+      "remainingAttempts": "Còn {count} lần thử",
+      "tryAgainLater": "Tài khoản đang bị khoá. Vui lòng thử lại sau {minutes} phút"
+    }
+  },
+  "movieDetail": {
+    "director": "Đạo diễn",
+    "cast": "Diễn viên",
+    "duration": "Thời lượng",
+    "year": "Năm phát hành",
+    "country": "Quốc gia",
+    "episode": "Tập",
+    "related": "Phim liên quan",
+    "releaseYear": "Năm phát hành",
+    "type": "Loại phim",
+    "language": "Ngôn ngữ",
+    "episodes": "Số tập",
+    "categories": "Thể loại",
+    "content": "Nội dung",
+    "servers": "Server phát phim",
+    "previousEpisode": "Tập trước",
+    "nextEpisode": "Tập sau"
+  },
+  "search": {
+    "advancedSearch": "Tìm kiếm nâng cao",
+    "filterDescription": "Lọc kết quả theo nhiều tiêu chí khác nhau",
+    "sortBy": "Sắp xếp theo",
+    "sortOrder": "Thứ tự",
+    "language": "Ngôn ngữ",
+    "releaseYear": "Năm phát hành",
+    "default": "Mặc định",
+    "allLanguages": "Tất cả ngôn ngữ",
+    "allYears": "Tất cả các năm",
+    "searchResultsFor": "Kết quả tìm kiếm cho \"{keyword}\""
+  }
+}

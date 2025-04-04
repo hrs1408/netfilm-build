@@ -1,0 +1,74 @@
+{
+  "common": {
+    "search": "Search",
+    "home": "Home",
+    "movies": "Movies",
+    "series": "TV Series",
+    "anime": "Anime",
+    "category": "Category",
+    "country": "Country",
+    "trending": "Trending",
+    "loading": "Loading...",
+    "watchNow": "Watch Now",
+    "more": "Load More",
+    "episode": "Episode",
+    "browserNotSupported": "Your browser does not support HTML5 video",
+    "resultsFound": "results found",
+    "loadMore": "Load More",
+    "navigation": {
+      "trending": "Trending",
+      "movies": "Movies",
+      "tvSeries": "TV Series",
+      "anime": "Anime",
+      "latestAnime": "Latest Anime",
+      "latestSeries": "Latest TV Series",
+      "discoverMovies": "Discover Movies & TV Shows"
+    },
+    "filters": {
+      "allCategories": "All Categories",
+      "allCountries": "All Countries",
+      "tryAgain": "Try changing filters to search again"
+    },
+    "errors": {
+      "noMoviesFound": "No movies found.",
+      "connectionError": "Could not connect to server. Please check your internet connection.", 
+      "genericError": "An error occurred. Please try again later."
+    },
+    "pagination": {
+      "page": "Page",
+      "of": "of"
+    },
+    "switchToLightMode": "Switch to light mode",
+    "switchToDarkMode": "Switch to dark mode"
+  },
+  "movieDetail": {
+    "director": "Director",
+    "cast": "Cast",
+    "duration": "Duration",
+    "year": "Release Year",
+    "country": "Country",
+    "episode": "Episode",
+    "related": "Related Movies",
+    "releaseYear": "Release Year",
+    "type": "Type",
+    "language": "Language",
+    "episodes": "Episodes",
+    "categories": "Categories",
+    "content": "Content",
+    "servers": "Servers",
+    "previousEpisode": "Previous Episode",
+    "nextEpisode": "Next Episode"
+  },
+  "search": {
+    "advancedSearch": "Advanced Search",
+    "filterDescription": "Filter results by different criteria",
+    "sortBy": "Sort by",
+    "sortOrder": "Order",
+    "language": "Language",
+    "releaseYear": "Release Year",
+    "default": "Default",
+    "allLanguages": "All Languages",
+    "allYears": "All Years",
+    "searchResultsFor": "Search results for \"{keyword}\""
+  }
+}
