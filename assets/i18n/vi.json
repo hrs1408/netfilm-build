@@ -17,6 +17,11 @@
     "loadMore": "Tải thêm",
     "latestAnime": "Phim hoạt hình mới cập nhật",
     "latestSeries": "Phim bộ mới cập nhật",
+    "watched": "Đã xem",
+    "play": "Phát",
+    "pause": "Tạm dừng",
+    "previous": "Tập trước",
+    "next": "Tập sau",
     "navigation": {
       "trending": "Thịnh hành",
       "movies": "Phim lẻ",
@@ -42,6 +47,7 @@
     }
   },
   "auth": {
+    "email": "Email",
     "login": "Đăng nhập",
     "logout": "Đăng xuất", 
     "username": "Tên đăng nhập",
@@ -72,7 +78,10 @@
     "content": "Nội dung",
     "servers": "Server phát phim",
     "previousEpisode": "Tập trước",
-    "nextEpisode": "Tập sau"
+    "nextEpisode": "Tập sau",
+    "quality": "Chất lượng",
+    "exclusive": "Độc quyền",
+    "theater": "Chiếu rạp"
   },
   "search": {
     "advancedSearch": "Tìm kiếm nâng cao",
